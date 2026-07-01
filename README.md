@@ -1,4 +1,3 @@
-# backend-engineering-with-fastapi
 # Student Management API (FastAPI)
 
 A simple RESTful API built with FastAPI that simulates a student management system using in-memory storage. This project demonstrates core backend concepts including CRUD operations, validation, HTTP status codes, query parameters, and API documentation.
